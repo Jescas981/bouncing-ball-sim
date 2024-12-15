@@ -1,0 +1,11 @@
+#ifndef BOUNCING_BALL_CONFIG_H
+#define BOUNCING_BALL_CONFIG_H
+
+#define SCREEN_WIDTH 600
+#define SCREEN_HEIGHT 800
+#define VIEW_MAX_Y 200.0f
+#define VIEW_MIN_Y -200.0f
+#define VIEW_MAX_X 200.0f
+#define VIEW_MIN_X -200.0f
+
+#endif
